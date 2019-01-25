@@ -1,0 +1,15 @@
+{
+  "name": "valkaben-ssh",
+  "version": "0.1.0",
+  "author": "Benjamin R. Wong <benrwong@gmail.com>",
+  "summary": "Module for managing ssh",
+  "license": "Apache-2.0",
+  "source": "https://github.com/valkaben/puppet-ssh",
+  "project_page": "https://github.com/valkaben/puppet-ssh",
+  "issues_url": "https://github.com/valkaben/puppet-ssh/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
